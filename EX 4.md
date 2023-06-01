@@ -49,7 +49,7 @@ print("Logical Address",s.recv(1024).decode())
 ![image](https://github.com/gowrisankarponnusamy/EX-5/assets/119393123/4b18e0e7-4a2c-4b83-8541-e452a8385feb)
 
 ### Server:
-![image](https://github.com/gowrisankarponnusamy/EX-5/assets/119393123/68fbfb25-d81f-4c14-9ae5-0066541926fe)
+![image](https://github.com/gowrisankarponnusamy/EX-5/assets/119393123/3a19b935-7140-42af-9701-f4f4626f22e6)
 
 ### RESULT :
 Thus, python program for simulating RARP protocols using UDP was successfully executed…
